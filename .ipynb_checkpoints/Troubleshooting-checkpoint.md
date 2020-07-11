@@ -37,7 +37,7 @@ Once you have the account switched Colab should look something like this when yo
 ![right account](img/trouble_3_right_account.png)
 
 ## Step 3. Copy to Google Drive. 
-Click the "Copy to Drive" button just below the "Runtimes" menu. Your notebook will open in a copy in Google Drive. 
+Click the "Copy to Drive" button just below the "Runtime" menu. Your notebook will open in a copy in Google Drive. 
 
 ![copy to drive](img/trouble_4_copy_to_drive.png)
 
