@@ -2,7 +2,7 @@
 
 If you have multiple Google accounts it is easy for Colab and Google Drive to get confused. Google Drive has to **allow** Colab to open the file. It's possible that you allowed Colab to write the file from within Colab but didn't give it permission to read to file from Google Drive.
 
-Here is a solution that will fix is once and for all. Repeat it for _each file_ you can open in Google Drive.
+Here is a solution that will fix is once and for all. Repeat it for _each file_ you cannot open in Google Drive.
 
 ## Step 1. Open a Notebook from your repository in GitHub.
 
