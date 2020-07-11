@@ -6,7 +6,7 @@ Here is a solution that will fix is once and for all. Repeat it for _each file_ 
 
 ## Step 1. Open a Notebook from your repository in GitHub.
 
-Click a notebook from this list to open a fresh copy:
+Right-click a notebook from this list to open a fresh copy in a new tab:
 - [Lesson 1](https://colab.research.google.com/github/christopherhuntley/BUAN5405-lessons/blob/master/L01_Preliminaries.ipynb) Preliminaries 
 - [Lesson 2](https://colab.research.google.com/github/christopherhuntley/BUAN5405-lessons/blob/master/L02_Basic_Computation.ipynb)  Basic Computation
 - [Lesson 3](https://colab.research.google.com/github/christopherhuntley/BUAN5405-lessons/blob/master/L03_Conditionals.ipynb)  Conditionals
