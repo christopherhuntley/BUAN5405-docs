@@ -47,3 +47,10 @@ The notebook with have "Copy of " in the name. Double click on the filename and 
 
 ## Step 5. In Google Drive, open the Colab Notebooks folder and drag the file into your lessons folder. 
 ![drag file](img/trouble_6_drag_file.png)
+
+## Step 6. Remove any old copies.
+![remove](img/trouble_7_remove.png)
+
+## Step 7. Open the new file in Colab. 
+![open](img/trouble_8_open.png)
+
