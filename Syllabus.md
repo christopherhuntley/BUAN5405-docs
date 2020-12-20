@@ -12,7 +12,7 @@ This course is an introduction to Python, with an emphasis on general programmin
 * To master syntax, control structures, data types, etc. in the Python programming language
 * To introduce Python as a tool for data science
 
-### Learing Objectives / Practice
+### Learning Objectives / Practice
 * To write Python scripts of moderate length and complexity
 * To design and use custom data structures using built-in and third-party data types
 * To introduce third-party Python libraries like Pandas and Matplotlib.
