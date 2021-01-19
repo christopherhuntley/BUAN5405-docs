@@ -14,6 +14,6 @@ _Course materials for BUAN 5405 Python Fundamentals_
    * Want to learn just enough Python to be dangerous? Then yes, this might be the class for you. 
    
    If you find that this class isn't for you then please consult with Phil Maymin at `pmaymin@fairfield.edu` or Leanne De Los Santos at `ldelossantos@fairfield.edu` to find a better fit for you. 
-3. **Complete Lesson 0 by July 6.**
+3. **Complete Lesson 0 by Jan 25.**
     * Open [Lesson 0](https://colab.research.google.com/github/christopherhuntley/BUAN5405-docs/blob/master/L0_Course_Onboarding.ipynb) in Google Colab. (Just right-click the link to open in a new tab.)
     * Follow directions given there to complete the course onboarding process. 
