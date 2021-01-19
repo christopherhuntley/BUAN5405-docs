@@ -1,7 +1,7 @@
 <img src="https://github.com/christopherhuntley/BUAN5405-docs/blob/master/Slides/img/Dolan.png?raw=true" width="180px" align="right">
 
 # BUAN 5405 Python Fundamentals
-*Summer 2020*
+*Spring 2021*
 ## Course Description
 This course is an introduction to Python, with an emphasis on general programming concepts (structure, logic, data, etc.) that apply to just about any general purpose programming language.  Starting with a review of fundamental programming concepts, the course uses short lessons, quizzes, and coding challenges to cover the basics of how Python is used in a professional Business Analytics setting. The course concludes with a final project designed to demonstrate proficiency. Prerequisites: graduate standing or permission of the instructor.   
 
@@ -21,20 +21,20 @@ This course is an introduction to Python, with an emphasis on general programmin
 ## Instructor
 Christopher L. Huntley  
 Fairfield Dolan, Room 205E  
-Email: chuntley@fairfield.edu
+Email: chuntley@fairfield.edu (please use Slack if possible; see below)
 
 ## Office Hours
-  * Mondays, Wednesdays, and Thursdays 7:00-9:00pm. A Zoom link is posted in the class Slack channel.
-  * Other times are by appointment only. However, use the class Slack channel for general inquiries.  
+  * We will have three (optional but *highly* recommended) Sunday night workshops, as indicated in the course schedule. Zoom links will posted in the class Slack channel.
+  * Other times are by appointment only. However, use the class Slack channel for general inquiries or to schedule Zoom calls.   
 
 ## Resources
 * **Textbook:** Python for Everybody: Exploring Data in Python 3, by Charles R. Severance, available [here](https://www.py4e.com/). The PDF, HTML, and Kindle versions are free.
 * **Online Tutorials:** [Data Camp’s Online Python Courses](https://www.datacamp.com)
-* **Software:** [Google Colab](https://colab.research.google.com/) (programming environment), git/[GitHub](https://github.com/) (source code management), and Google Drive (https://drive.google.com) (collaborative work)
-* **Hardware:** While the software tools are online, you will eventually want a professional-grade laptop for subsequent analytics courses. Ask for suggestions if needed.    
+* **Software:** [Google Colab](https://colab.research.google.com/) (programming environment) and Google Drive (https://drive.google.com) (collaborative work) using your @student.fairfield.edu account.
+* **Hardware:** While the software tools are online, you may eventually want a professional-grade computer for subsequent analytics courses. Ask on Slack for suggestions.    
 * **Websites:**  
     * Class documents (including this syllabus) are in [Dr. Huntley's GitHub repository](https://github.com/christopherhuntley/buan5405-docs).
-    * Programming assignments are posted and managed in GitHub Classroom.
+    * Programming assignments are posted and managed in Googgle Classroom.
     * Class communications will be via [Slack at fairfield-dolan.slack.com](Slack.md). 
     * [DataCamp](https://datacamp.com) exercises will be used to complement the class lessons.
     * The official [Python 3 Documentation](https://docs.python.org/3/index.html) covers the Python language and all built-in libraries. When in doubt, [RTFM](https://en.wikipedia.org/wiki/RTFM)
@@ -69,7 +69,7 @@ This is a graduate class intended for aspiring *professionals*:
 ### Professionalism (20% of Course Grade)
 Professionals get the job done. As you progress through the course, you will be asked to complete various DataCamp tutorials, challenge exercises, quizzes, and other hands-on work. **Please complete all assignments on time, as specified, using the resources above to the best of your ability.** 
 ### Quizzes (50% of Course Grade)
-There will be five quizzes, with the lowest grade dropped from your quiz average. They will be given on the days shown in the attached schedule of classes. Quizzes are closed book and closed notes. They are designed to last about 25 minutes, though you may take longer if needed. **Quizzes will be graded on the dates given below, after which missing submissions will be assigned a score of 0. After the second missed quiz, the maximum class grade is a B-.** 
+There will be five quizzes, with the lowest grade dropped from your quiz average. They will be given on the days shown in the attached schedule of classes. Quizzes are closed book and closed notes. They are designed to last about 25 minutes, though you may take longer if needed. **Quizzes will be graded on the dates given below, after which missing submissions will be assigned a score of 0. After the second missed quiz, the maximum class grade is a B-.** If you have a conflict with a quiz date, you may arrange to *take the quiz early*. 
 ### Final Project (30% of Course Grade)
 The final project is meant to be a demonstration that you are ready for the Python for Analytics course. 
 ### Grading Scale
@@ -95,60 +95,60 @@ After scaling, the expected grade distribution is approximately:
 
 
 ## Dates and Deliverables
-- [Py4E](https://www.py4e.com) is the textbook.
+- [Py4E](https://www.py4e.com) is the *Python for Everybody* textbook.
 - [DataCamp](https://www.py4e.com/) exercises are assigned and tracked online. 
-- Lessons and projects are assigned and tracked via [GitHub Classroom](https://classroom.github.com), with work completed in [Google Colab](https://colab.research.google.com/).
-- Assignments will be graded within two days of the submission deadline.
+- Lessons and projects are assigned and tracked via [Google Classroom](https://classroom.google.com), with work completed in [Google Colab](https://colab.research.google.com/).
+- Assignments will be graded within two days after the submission deadline.
 
-| Week | Topic/Assignment                 | Release | Deadline |
+| Module | Topic/Assignment                 | Release | Deadline |
 | :--: |----------------------------------|-------: |--------: |
 | **0**    | **Course Onboarding**            |         |          |
-|      | Reading: Py4E Chapter 1          |         | July 6   |
-|      | [Getting Started](https://christopherhuntley.github.io/BUAN5405-docs/)                  | July 1  | July 6   |
-|      | Lesson 0: Course Introduction    |         | July 6   |
+|      | Lesson 0: Course Introduction    |  Jan 19       | Jan 25   |
+|      | Reading: Py4E Chapter 1          |         | Jan 25   |
+|      | [Getting Started](https://christopherhuntley.github.io/BUAN5405-docs/)                  | Jan 25  | July 6   |
 | **1**    | **Getting Started**              |         |          |
-|      | Reading: Py4E Chapter 2          |         | July 12  |
-|      | Lesson 1: Python Preliminaries   |         | July 12  |
-|      | Lesson 2: Basic Computation      |         | July 12  |
-|      | Datacamp: Introduction to Python |         | July 12  |
-|      | **_Quiz 1_**                           | July 12 | July 13  |
+|      | Reading: Py4E Chapter 2          |         | Feb 1  |
+|      | Lesson 1: Python Preliminaries   |  Jan 19      | Feb 1  |
+|      | Lesson 2: Basic Computation      |  Jan 26      | Feb 8  |
+|      | Datacamp: Introduction to Python |         | Feb 8  |
+|      | **_Quiz 1_**                           | Feb 8 | Feb 9  |
 | **2**    | **Structured Logic**             |         |          |
-|      | Reading: Py4E Chapter 3          |         | July 16  |
-|      | Lesson 3: Conditional Execution  |         | July 16  |
-|      | Datacamp: Python Lists           |         | July 16  |
-|      | Reading: Py4E Chapter 4          |         | July 18  |
-|      | Lesson 4: Functions              |         | July 18  |
-|      | DataCamp: Functions and Packages |         | July 18  |
-|      | Reading: Py4E Chapter 5          |         | July 19  |
-|      | Lesson 5: Iteration              |         | July 19  |
-|      | **_Quiz 2_**                           | July 19 | July 20  |
+|      | Reading: Py4E Chapter 3          |         | Feb 15  |
+|      | Lesson 3: Conditional Execution  |  Feb 1      | Feb 15  |
+|      | Datacamp: Python Lists           |         | Feb 15  |
+|      | Reading: Py4E Chapter 4          |         | Feb 22  |
+|      | Lesson 4: Functions              |  Feb 8      | Feb 22  |
+|      | DataCamp: Functions and Packages |         | Feb 22  |
+|      | Reading: Py4E Chapter 5          |         | Mar 1  |
+|      | Lesson 5: Iteration              |  Feb 15       | Mar 1  |
+|      | **_Quiz 2_**                           | Mar 1 | Mar 2  |
 | **3**    | **Data Structures**              |         |          |
-|      | Reading: Py4E Chapter 6          |         | July 24  |
-|      | Lesson 6: Strings                |         | July 24  |
-|      | Reading: Py4E Chapter 7          |         | July 24  |
-|      | Lesson 7: Files                  |         | July 24  |
-|      | DataCamp: Fundamental data types |         | July 24  |
-|      | Reading: Py4E Chapter 8          |         | July 26  |
-|      | Lesson 8: Lists                  |         | July 26  |
-|      | **_Quiz 3_**                           | July 26 | July 27  |
+|      | Reading: Py4E Chapter 6          |         | Mar 8  |
+|      | Lesson 6: Strings                |  Feb 22       | Mar 8  |
+|      | Reading: Py4E Chapter 7          |         | Mar 15  |
+|      | Lesson 7: Files                  |  Mar 1       | Mar 15  |
+|      | DataCamp: Fundamental data types |         | Mar 22  |
+|      | Reading: Py4E Chapter 8          |         | Mar 22  |
+|      | Lesson 8: Lists                  |  Mar 8       | Mar 22  |
+|      | **_Quiz 3_**                           | Mar 22 | Mar 23  |
 | **4**    | **Data Structures (cont.)**      |         |          |
-|      | Reading: Py4E Chapter 9          |         | July 30  |
-|      | DataCamp: Dictionaries -- the root of Python | | July 30|
-|      | Lesson 9: Dicts                  |         | July 30  |
-|      | Reading: Py4E Chapter 10         |         | August 2  |
-|      | Lesson 10: Tuples                |         | August 2 |
-|      | **_Quiz 4_**                           | August 2 | August 3|
+|      | Reading: Py4E Chapter 9          |         | Mar 29  |
+|      | DataCamp: Dictionaries -- the root of Python | | Mar 29|
+|      | Lesson 9: Dicts                  |   Mar 15      | Mar 29  |
+|      | Reading: Py4E Chapter 10         |         | Apr 12  |
+|      | Lesson 10: Tuples                |   Mar 22       | Apr 12 |
+|      | **_Quiz 4_**                           | Apr 12 | Apr 13|
 | **5**    | **Advanced Data Structures**     |          |         |
-|      | DataCamp: pandas Basics |              | August 5|
-|      | Lesson 11: pandas   Series and DataFrames   |  | August 5|
-|      | **_Quiz 5_**                           | August 6 | August 8|
-|      | DataCamp:  Exploratory Data Analysis    |          | August 8|
-|      | DataCamp:  Time Series in pandas    |          | August 8|
-|      | Lesson 12: Odds and Ends     |   | August 8|
-| **6**    | **Final Project**                |          |         |
-|      | **_Code Submitted via GitHub_**        |          | August 13|
-|      | **_Walkthrough video posted on Youtube_**        |          | August 13 |
-|      | **_Peer reviews submitted via Google Forms_**      |          | August 14 |    
+|      | DataCamp: pandas Basics |              | Apr 19|
+|      | Lesson 11: pandas   Series and DataFrames   | Mar 22  | Apr 19|
+|      | **_Quiz 5_**                           | Apr 19 | Apr 20|
+|      | DataCamp:  Exploratory Data Analysis    |          | Apr 26|
+|      | DataCamp:  Time Series in pandas    |          | Apr 26|
+|      | Lesson 12: Odds and Ends     | Mar 22  | Apr 26|
+| **6**    | **Final Project**                |  Apr 27        |  May 10  |
+|      | **_Code Submitted via Google Classroom_**        |          | May 8|
+|      | **_Walkthrough video posted on Youtube_**        |          | May 9 |
+|      | **_Peer reviews submitted via Google Forms_**      |         | May 10 |    
 
 
 
