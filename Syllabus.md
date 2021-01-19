@@ -103,11 +103,10 @@ After scaling, the expected grade distribution is approximately:
 | Module | Topic/Assignment                 | Release | Deadline |
 | :--: |----------------------------------|-------: |--------: |
 | **0**    | **Course Onboarding**            |         |          |
+|      | [Getting Started](https://christopherhuntley.github.io/BUAN5405-docs/)                  | Jan 19  | Jan 25   |
 |      | Lesson 0: Course Introduction    |  Jan 19       | Jan 25   |
-|      | Reading: Py4E Chapter 1          |         | Jan 25   |
-|      | [Getting Started](https://christopherhuntley.github.io/BUAN5405-docs/)                  | Jan 25  | July 6   |
 | **1**    | **Getting Started**              |         |          |
-|      | Reading: Py4E Chapter 2          |         | Feb 1  |
+|      | Reading: Py4E Chapters 1 & 2          |         | Feb 1  |
 |      | Lesson 1: Python Preliminaries   |  Jan 19      | Feb 1  |
 |      | Lesson 2: Basic Computation      |  Jan 26      | Feb 8  |
 |      | Datacamp: Introduction to Python |         | Feb 8  |
