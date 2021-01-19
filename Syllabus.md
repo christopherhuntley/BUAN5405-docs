@@ -130,14 +130,13 @@ After scaling, the expected grade distribution is approximately:
 |      | Reading: Py4E Chapter 8          |         | Mar 22  |
 |      | Lesson 8: Lists                  |  Mar 8       | Mar 22  |
 |      | **_Quiz 3_**                           | Mar 22 | Mar 23  |
-| **4**    | **Data Structures (cont.)**      |         |          |
 |      | Reading: Py4E Chapter 9          |         | Mar 29  |
 |      | DataCamp: Dictionaries -- the root of Python | | Mar 29|
 |      | Lesson 9: Dicts                  |   Mar 15      | Mar 29  |
 |      | Reading: Py4E Chapter 10         |         | Apr 12  |
 |      | Lesson 10: Tuples                |   Mar 22       | Apr 12 |
 |      | **_Quiz 4_**                           | Apr 12 | Apr 13|
-| **5**    | **Advanced Data Structures**     |          |         |
+| **4**    | **Advanced Data Structures**     |          |         |
 |      | DataCamp: pandas Basics |              | Apr 19|
 |      | Lesson 11: pandas   Series and DataFrames   | Mar 22  | Apr 19|
 |      | **_Quiz 5_**                           | Apr 19 | Apr 20|
