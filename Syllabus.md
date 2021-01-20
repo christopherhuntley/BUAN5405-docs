@@ -139,10 +139,10 @@ After scaling, the expected grade distribution is approximately:
 | **4**    | **Advanced Data Structures**     |          |         |
 |      | DataCamp: pandas Basics |              | Apr 19|
 |      | Lesson 11: pandas   Series and DataFrames   | Mar 22  | Apr 19|
-|      | **_Quiz 5_**                           | Apr 19 | Apr 20|
 |      | DataCamp:  Exploratory Data Analysis    |          | Apr 26|
 |      | DataCamp:  Time Series in pandas    |          | Apr 26|
 |      | Lesson 12: Odds and Ends     | Mar 22  | Apr 26|
+|      | **_Quiz 5_**                           | Apr 19 | Apr 26|
 | **5**    | **Final Project**                |  Apr 27        |  May 10  |
 |      | **_Code Submitted via Google Classroom_**        |          | May 8|
 |      | **_Walkthrough video posted on Youtube_**        |          | May 9 |
