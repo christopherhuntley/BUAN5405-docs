@@ -109,12 +109,12 @@ After scaling, the expected grade distribution is approximately:
 |      | Reading: Py4E Chapters 1 & 2          |         | Feb 1  |
 |      | Lesson 1: Python Preliminaries   |  Jan 19      | Feb 1  |
 |      | Lesson 2: Basic Computation      |  Jan 26      | Feb 8  |
-|      | Datacamp: Introduction to Python |         | Feb 8  |
+|      | Datacamp: Python Basics |         | Feb 8  |
 |      | **_Quiz 1_**                           | Feb 8 | Feb 9  |
 | **2**    | **Structured Logic**             |         |          |
 |      | Reading: Py4E Chapter 3          |         | Feb 15  |
 |      | Lesson 3: Conditional Execution  |  Feb 1      | Feb 15  |
-|      | Datacamp: Python Lists           |         | Feb 15  |
+|      | DataCamp: Python Lists           |         | Feb 15  |
 |      | Reading: Py4E Chapter 4          |         | Feb 22  |
 |      | Lesson 4: Functions              |  Feb 8      | Feb 22  |
 |      | DataCamp: Functions and Packages |         | Feb 22  |
@@ -137,8 +137,8 @@ After scaling, the expected grade distribution is approximately:
 |      | Lesson 10: Tuples                |   Mar 22       | Apr 12 |
 |      | **_Quiz 4_**                           | Apr 12 | Apr 13|
 | **4**    | **Advanced Data Structures**     |          |         |
-|      | DataCamp: pandas Basics |              | Apr 19|
-|      | Lesson 11: pandas   Series and DataFrames   | Mar 22  | Apr 19|
+|      | DataCamp: Data ingestion & inspection |              | Apr 19|
+|      | Lesson 11: pandas  Series and DataFrames   | Mar 22  | Apr 19|
 |      | DataCamp:  Exploratory Data Analysis    |          | Apr 26|
 |      | DataCamp:  Time Series in pandas    |          | Apr 26|
 |      | Lesson 12: Odds and Ends     | Mar 22  | Apr 26|
