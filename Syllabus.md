@@ -142,7 +142,7 @@ After scaling, the expected grade distribution is approximately:
 |      | DataCamp:  Exploratory Data Analysis    |          | Apr 26|
 |      | DataCamp:  Time Series in pandas    |          | Apr 26|
 |      | Lesson 12: Odds and Ends     | Apr 3  | Apr 23|
-| **5**    | **Final Project (Timeseries analysis in Pandas)**                |  May 6        |  May 11  |
+| **5**    | **Final Project (TSA in Pandas)**                |  May 6        |  May 11  |
 |      | **_Code Submitted via Google Classroom_**        |          | May 10|
 |      | **_Walkthrough on Zoom_**        |          | May 11 | 
 
